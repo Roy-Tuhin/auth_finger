@@ -1,4 +1,4 @@
-name: faceid_auth_example
+name: auth_finger
 version: 1.0.0+1
 
 environment:

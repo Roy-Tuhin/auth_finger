@@ -1,4 +1,4 @@
-import 'package:faceid_auth_example/page/face_page.dart';
+import 'package:auth_finger/page/face_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
