@@ -20,7 +20,7 @@ class LocalAuthApi {
     if (canCheck) {
       List<BiometricType> availableBio = await _auth.getAvailableBiometrics(); 
       bool face = availableBio.contains(BiometricType.face); 
-      bool fingerprint = availableBio.contains(BiometricType.fingerprint); 
+      bool fingerprint = availableBio.contains(BiometricType.fingerprint);
 
     //  fingerprint? 
      try{ 
